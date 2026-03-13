@@ -1,0 +1,622 @@
+Which keyword is used for conditional execution in Python?
+A. loop
+B. if
+C. case
+D. switch
+ANSWER: B
+
+Which keyword is used to check multiple conditions in sequence?
+A. else if
+B. elif
+C. case
+D. when
+ANSWER: B
+
+Nested if refers to:
+A. Multiple loops
+B. If inside another if
+C. Class inside class
+D. Function inside loop
+ANSWER: B
+
+The match-case statement was introduced in Python version:
+A. 3.8
+B. 3.9
+C. 3.10
+D. 3.7
+ANSWER: C
+
+The default case in match-case is written using:
+A. default
+B. else
+C. _
+D. otherwise
+ANSWER: C
+
+Which loop is entry-controlled?
+A. for
+B. while
+C. Both
+D. None
+ANSWER: C
+
+The break statement is used to:
+A. Skip iteration
+B. Exit loop completely
+C. Pause loop
+D. Restart loop
+ANSWER: B
+
+The continue statement is used to:
+A. Stop loop
+B. Skip current iteration
+C. End program
+D. Raise error
+ANSWER: B
+
+The pass statement is commonly used as:
+A. Loop controller
+B. Placeholder
+C. Error handler
+D. Function call
+ANSWER: B
+
+Which loop is best used when number of iterations is known?
+A. while
+B. for
+C. do-while
+D. repeat
+ANSWER: B
+
+Keyword used to define a function:
+A. function
+B. define
+C. def
+D. lambda
+ANSWER: C
+
+A function that returns no value returns:
+A. 0
+B. False
+C. None
+D. Empty string
+ANSWER: C
+
+Default arguments are evaluated at:
+A. Runtime
+B. Definition time
+C. Compile time
+D. Loop time
+ANSWER: B
+
+*args collects arguments as:
+A. Dictionary
+B. Tuple
+C. List
+D. Set
+ANSWER: B
+
+**kwargs collects arguments as:
+A. Tuple
+B. Dictionary
+C. List
+D. Set
+ANSWER: B
+
+Local variables are accessible:
+A. Everywhere
+B. Inside function only
+C. Inside class only
+D. Globally
+ANSWER: B
+
+Global variables are declared:
+A. Inside loop
+B. Inside function
+C. Outside function
+D. Inside class
+ANSWER: C
+
+Recursion must include:
+A. Loop
+B. Base case
+C. Class
+D. Lambda
+ANSWER: B
+
+A recursive function primarily uses:
+A. Iteration
+B. Self-calling
+C. Inheritance
+D. Polymorphism
+ANSWER: B
+
+Lambda functions are:
+A. Named functions
+B. Anonymous functions
+C. Classes
+D. Modules
+ANSWER: B
+
+map() function returns:
+A. List
+B. Iterator
+C. Tuple
+D. Dictionary
+ANSWER: B
+
+filter() function is an example of:
+A. Loop
+B. Higher-order function
+C. Class
+D. Decorator
+ANSWER: B
+
+reduce() function belongs to module:
+A. math
+B. functools
+C. sys
+D. os
+ANSWER: B
+
+Strings in Python are:
+A. Mutable
+B. Immutable
+C. Dynamic
+D. Numeric
+ANSWER: B
+
+String slicing uses:
+A. ()
+B. []
+C. {}
+D. <>
+ANSWER: B
+
+The upper() method converts text to:
+A. Lowercase
+B. Uppercase
+C. Reverse
+D. Split
+ANSWER: B
+
+The split() method returns:
+A. String
+B. List
+C. Tuple
+D. Dictionary
+ANSWER: B
+
+f-strings were introduced in:
+A. Python 3.6
+B. Python 3.5
+C. Python 3.7
+D. Python 3.4
+ANSWER: A
+
+Lists in Python are:
+A. Immutable
+B. Mutable
+C. Fixed
+D. Constant
+ANSWER: B
+
+Tuples are:
+A. Mutable
+B. Immutable
+C. Dynamic
+D. Flexible
+ANSWER: B
+
+Sets automatically remove:
+A. Negative numbers
+B. Duplicates
+C. Strings
+D. Tuples
+ANSWER: B
+
+Dictionaries store data as:
+A. Indexed pairs
+B. Key-value pairs
+C. Lists
+D. Sets
+ANSWER: B
+
+Which method adds element to list?
+A. insert()
+B. append()
+C. add()
+D. push()
+ANSWER: B
+
+Dictionary keys must be:
+A. Mutable
+B. Immutable
+C. Lists
+D. Sets
+ANSWER: B
+
+List comprehension improves:
+A. Memory
+B. Readability
+C. Errors
+D. CPU speed
+ANSWER: B
+
+Dictionary comprehension uses:
+A. []
+B. {}
+C. ()
+D. <>
+ANSWER: B
+
+Generator expressions use:
+A. []
+B. ()
+C. {}
+D. <>
+ANSWER: B
+
+Iterators must implement:
+A. start
+B. iter and next
+C. loop
+D. yield
+ANSWER: B
+
+Generators use keyword:
+A. return
+B. yield
+C. break
+D. pass
+ANSWER: B
+
+Decorators are applied using symbol:
+A. #
+B. @
+C. $
+D. %
+ANSWER: B
+
+Closures retain variables from:
+A. Global scope
+B. Enclosing scope
+C. Class scope
+D. Loop scope
+ANSWER: B
+
+OOP stands for:
+A. Object Oriented Programming
+B. Organized Programming
+C. Operational Programming
+D. Ordered Programming
+ANSWER: A
+
+A class is a:
+A. Blueprint
+B. Function
+C. Loop
+D. Module
+ANSWER: A
+
+An object is:
+A. Blueprint
+B. Instance of class
+C. Loop
+D. Method
+ANSWER: B
+
+Constructor method in Python is:
+A. create
+B. init
+C. start
+D. build
+ANSWER: B
+
+Encapsulation means:
+A. Hiding data
+B. Looping data
+C. Deleting data
+D. Printing data
+ANSWER: A
+
+Inheritance promotes:
+A. Code deletion
+B. Code reuse
+C. Code duplication
+D. Code hiding
+ANSWER: B
+
+Polymorphism allows:
+A. Same method name different behavior
+B. Same behavior always
+C. Only one method
+D. No methods
+ANSWER: A
+
+Abstraction focuses on:
+A. Showing implementation
+B. Hiding implementation
+C. Looping code
+D. Debugging
+ANSWER: B
+
+Abstract base classes are defined in module:
+A. abc
+B. sys
+C. os
+D. math
+ANSWER: A
+
+@dataclass decorator automatically generates:
+A. Loop
+B. init
+C. Exception
+D. yield
+ANSWER: B
+
+Enum is mainly used for:
+A. Variables
+B. Named constants
+C. Loops
+D. Lists
+ANSWER: B
+
+The is operator checks:
+A. Equality
+B. Identity
+C. Membership
+D. Type
+ANSWER: B
+
+The in operator checks:
+A. Identity
+B. Membership
+C. Equality
+D. Scope
+ANSWER: B
+
+len() function returns:
+A. Type
+B. Length
+C. Value
+D. Index
+ANSWER: B
+
+pop() without argument removes:
+A. First element
+B. Last element
+C. Middle element
+D. Random element
+ANSWER: B
+
+frozenset is:
+A. Mutable
+B. Immutable
+C. Ordered
+D. Indexed
+ANSWER: B
+
+zip() returns:
+A. List
+B. Iterator
+C. Set
+D. Dict
+ANSWER: B
+
+enumerate() provides:
+A. Keys
+B. Index-value pairs
+C. Values
+D. Items
+ANSWER: B
+
+isinstance() checks:
+A. Length
+B. Type
+C. Value
+D. Memory
+ANSWER: B
+
+super() is used to access:
+A. Child class
+B. Parent class
+C. Loop
+D. Module
+ANSWER: B
+
+Private variables are prefixed with:
+A. _
+B. __
+C. #
+D. $
+ANSWER: B
+
+raise keyword is used to:
+A. Ignore exception
+B. Throw exception
+C. Catch exception
+D. Print exception
+ANSWER: B
+
+finally block executes:
+A. Only if error
+B. Always
+C. Never
+D. Sometimes
+ANSWER: B
+
+Custom exceptions should inherit from:
+A. object
+B. Exception
+C. Base
+D. Error
+ANSWER: B
+
+assert is mainly used for:
+A. Debugging
+B. Looping
+C. Class creation
+D. Input
+ANSWER: A
+
+Generators are memory efficient because they:
+A. Store all values
+B. Generate values lazily
+C. Use recursion
+D. Use loops
+ANSWER: B
+
+Dictionary lookup average time complexity is:
+A. O(n)
+B. O(1)
+C. O(n²)
+D. O(log n)
+ANSWER: B
+
+Tuple is faster than list because it is:
+A. Mutable
+B. Immutable
+C. Larger
+D. Dynamic
+ANSWER: B
+
+Class variables are shared by:
+A. One object
+B. All instances
+C. None
+D. Loops
+ANSWER: B
+
+Instance variables belong to:
+A. Class
+B. Object
+C. Loop
+D. Module
+ANSWER: B
+
+@staticmethod defines:
+A. Instance method
+B. Static method
+C. Class method
+D. Abstract method
+ANSWER: B
+
+@classmethod takes first parameter as:
+A. self
+B. cls
+C. obj
+D. data
+ANSWER: B
+
+Abstract methods use decorator:
+A. @abstract
+B. @abstractmethod
+C. @override
+D. @base
+ANSWER: B
+
+Exception chaining is done using:
+A. raise from
+B. chain
+C. continue
+D. pass
+ANSWER: A
+
+The name == "main" block runs when:
+A. Imported
+B. Executed directly
+C. Inherited
+D. Decorated
+ANSWER: B
+
+Multiple inheritance means a class has:
+A. One parent
+B. Two or more parents
+C. No parent
+D. One child
+ANSWER: B
+
+Method overriding requires:
+A. Different name
+B. Same method signature
+C. No parameters
+D. Loop
+ANSWER: B
+
+Set operations like union are typically:
+A. O(n²)
+B. O(1) average
+C. O(n³)
+D. O(log n)
+ANSWER: B
+
+A closure is created when:
+A. Class ends
+B. Inner function references outer variable
+C. Loop ends
+D. Exception occurs
+ANSWER: B
+
+A decorator typically returns:
+A. Value
+B. Function
+C. List
+D. Class
+ANSWER: B
+
+Recursion uses stack memory for:
+A. Variables
+B. Function calls
+C. Loops
+D. Classes
+ANSWER: B
+
+The join() method is used to:
+A. Split string
+B. Combine strings
+C. Remove spaces
+D. Reverse string
+ANSWER: B
+
+strip() method removes:
+A. Digits
+B. Leading and trailing spaces
+C. Letters
+D. Symbols
+ANSWER: B
+
+List comprehension condition is written after:
+A. for
+B. if
+C. while
+D. def
+ANSWER: B
+
+A generator function differs from normal function because it:
+A. Uses return
+B. Uses yield
+C. Uses break
+D. Uses pass
+ANSWER: B
+
+Encapsulation improves:
+A. Code exposure
+B. Data security
+C. Loop speed
+D. Memory size
+ANSWER: B
+
+Polymorphism is commonly achieved using:
+A. Overloading
+B. Overriding
+C. Recursion
+D. Iteration
+ANSWER: B
+
+Abstraction is achieved in Python using:
+A. abc module
+B. sys module
+C. os module
+D. math module
+ANSWER: A
